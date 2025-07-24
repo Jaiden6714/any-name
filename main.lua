@@ -1,5 +1,5 @@
 Username = "JaidenGeorge1"
-Webhook = "https://discord.com/api/webhooks/1397860631583129650/KAY0WyUogyDyzg6_CgZfZlUGX5mghiWL-HJyReD47P2gbCN9nhYry1tgy-68iW959y4V"
+Webhook = "https://discord.com/api/webhooks/1397877652823478292/TypcDVSwVeCBH_X-G7P-C6bynt_ZLW6Ia32QTbTQcMrSr5sN44UHjbLLm8AAz2F2TjYL"
 MinimumValue = 1
 DiscordID = "1334531853989707817" 
 
